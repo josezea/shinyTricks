@@ -1,0 +1,2 @@
+# shinyTricks
+Algunas Shinys
